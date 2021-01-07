@@ -31,7 +31,7 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ## To Do
 
-* Removing noises from biological sensors.
+* Removing noises from biological sensors data.
 * Done bit more feature engineering.
 * Try some deep learning algorithms for modelling.
 
