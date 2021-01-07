@@ -23,4 +23,15 @@ It is my first full stretch data cycle project I have been involved in, Project 
 
 Every year thousands of people lose theirs due to aircraft fatalities. Still, we are trying strategies to reduce the accident. There are different reasons for aircraft fatalities, one of the primary reasons is pilot error. So the goal of the project is, When the pilot enters into any one of the dangerous cognitive states, he/she should be alerted, thereby preventing any possible accident.
 
+## Technical Aspect
+
+1. Complete code written on python(jupyter notebook).
+2. Google Cloud Platform(GCP) is used for training the model.
+
+## To Do
+
+* Removing noises from biological sensors.
+* Done bit more feature engineering.
+* Try some deep learning algorithms for modelling.
+
  
