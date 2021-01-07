@@ -1,6 +1,6 @@
 # Reducing Commercial Aviation Fatalities
 
-[<img target="_blank" src="https://imgur.com/5zR4aNsg.png">]
+ [<img target="_blank" src="https://imgur.com/05j8LAQ.jpg" width=200>]
 
 ## Table of Content
   * [Overview](#overview)
