@@ -3,7 +3,7 @@
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Goal](#goal)
+  * [Aim](#aim)
   * [Technical Aspect](#technical-aspect)
   * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
@@ -19,7 +19,8 @@ The data for the project was provided by Kaggle. One of the important tasks in t
 
 It is my first full stretch data cycle project I have been involved in, Project very interesting to me because of the features present in the data set. Most of the features are a biologically related feature , before starting the project I had only know the names like ECG, EEG, R, GSR. So this project enhanced me to learn new things about how these sensors are worked? how data is collected using sensors? how these sensors are related to the human body?
 
-## Goals
+## Aim
 
 Every year thousands of people lose theirs due to aircraft fatalities. Still, we are trying strategies to reduce the accident. There are different reasons for aircraft fatalities, one of the primary reasons is pilot error. So the goal of the project is, When the pilot enters into any one of the dangerous cognitive states, he/she should be alerted, thereby preventing any possible accident.
 
+ 
