@@ -15,6 +15,6 @@ Most of the flight fatalities or flight accidents due to pilot error are due to 
 
 The data for the project was provided by Kaggle. One of the important tasks in the project is feature engineering, __How to derive new features from existing features?__ since most of the data is collected over biological sensors it is quite interesting to me learn new things about how these data are collected and derive new features. For deriving new features, we used the python [BioSPPy](https://biosppy.readthedocs.io/en/stable/) module.
 
-## Motivation
+## Motivation 
 
 
