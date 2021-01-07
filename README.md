@@ -2,7 +2,7 @@
 
 [<img target="_blank" src="https://imgur.com/5zR4aNs.jpg" width=900>](https://scikit-learn.org/stable/)
 
-The link for the blog on this project :[Reducing Commercial Aviation Fatalities](https://basilkjose.medium.com/reducing-commercial-aviation-fatalities-kaggle-competition-5f001283075c)
+The link for the blog on this project : [Reducing Commercial Aviation Fatalities](https://basilkjose.medium.com/reducing-commercial-aviation-fatalities-kaggle-competition-5f001283075c)
 
 ## Table of Content
   * [Overview](#overview)
