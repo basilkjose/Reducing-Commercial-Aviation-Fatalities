@@ -25,8 +25,9 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ## Technical Aspect
 
-1. Complete code written on python(jupyter notebook).
-2. Google Cloud Platform(GCP) is used for training the model.
+* Complete code written on python (jupyter notebook).
+* Google Cloud Platform (GCP) is used for training the model.
+* Perfromance metric used for the project is multi class log loss
 
 ## To Do
 
