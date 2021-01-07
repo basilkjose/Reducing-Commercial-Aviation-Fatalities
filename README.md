@@ -38,7 +38,7 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 ## Technologies Used 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-![](https://imgur.com/t1lB6U7.jpg)
+[<img target="_blank" src="https://imgur.com/t1lB6U7.jpg" width=200>](https://keras.io/)
 
 ## Credits
 
