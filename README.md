@@ -39,7 +39,7 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://imgur.com/t1lB6U7.jpg" width=200>](https://keras.io/)
+[<img target="_blank" src="https://imgur.com/i0q2j1W.jpg" width=200>](https://keras.io/)
 
 ## Credits
 
