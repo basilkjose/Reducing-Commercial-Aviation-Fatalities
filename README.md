@@ -1,5 +1,7 @@
 # Reducing Commercial Aviation Fatalities
 
+![](https://imgur.com/5zR4aNsg.jpg)
+
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
