@@ -35,6 +35,10 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 * Done bit more feature engineering.
 * Try some deep learning algorithms for modelling.
 
+## Technologies Used 
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 ## Credits
 
  * [Kaggle](https://www.kaggle.com/c/reducing-commercial-aviation-fatalities) - For conducting problem and providing this wonderful dataset.
