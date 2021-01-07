@@ -2,8 +2,7 @@
 
 [<img target="_blank" src="https://imgur.com/5zR4aNs.jpg" width=900>](https://scikit-learn.org/stable/)
 
-The link for the blog on this project:
-https://medium.com/@nehasikerwar/wait-ever-examined-your-pilot-before-boarding-21e6a8445a9a
+The link for the blog on this project
 
 ## Table of Content
   * [Overview](#overview)
