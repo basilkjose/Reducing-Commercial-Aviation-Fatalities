@@ -39,7 +39,7 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
+[<img target="_blank" src="https://imgur.com/05j8LAQ.jpg.png" width=200>](https://keras.io/) [<img target="_blank" src="https://imgur.com/Bmwklam.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
 
 [<img target="_blank" src="https://imgur.com/05j8LAQ.jpg" width=200>](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html)   [<img target="_blank" src="https://imgur.com/Bmwklam.jpg" width=200>](https://console.cloud.google.com/)        
 
