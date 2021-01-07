@@ -17,4 +17,5 @@ The data for the project was provided by Kaggle. One of the important tasks in t
 
 ## Motivation 
 
+It is my first full stretch data cycle project I have been involved in, Project very interesting to me because of the features present in the data set. Most of the features are a biologically related feature , before starting the project I had only know the names like ECG, EEG, R, GSR. So this project enhanced me to learn new things about how these sensors are worked? how data is collected using sensors? how these sensors are related to the human body?
 
