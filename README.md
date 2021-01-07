@@ -37,7 +37,7 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ## Credits
 
-[Kaggle](https://www.kaggle.com/c/reducing-commercial-aviation-fatalities) - For providing this wonderful dataset.
-[BioSPPy](https://biosppy.readthedocs.io/en/stable/) - Without this python toolbox , not possible to derive new features .
+ * [Kaggle](https://www.kaggle.com/c/reducing-commercial-aviation-fatalities) - For providing this wonderful dataset.
+ * [BioSPPy](https://biosppy.readthedocs.io/en/stable/) - Without this python toolbox , not possible to derive new features .
 
  
