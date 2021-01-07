@@ -39,8 +39,8 @@ Every year thousands of people lose theirs due to aircraft fatalities. Still, we
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://imgur.com/05j8LAQ.jpg" width=200>](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html)        
- [<img target="_blank" src="https://imgur.com/i0q2j1W.jpg" width=200>](https://biosppy.readthedocs.io/en/stable/biosppy.signals.html)  [<img target="_blank" src="https://imgur.com/EiX2o88.jpg" width=200>](https://scikit-learn.org/stable/)  [<img target="_blank" src="https://imgur.com/SqlGEKu.jpg" width=200>](https://console.cloud.google.com/)
+[<img target="_blank" src="https://imgur.com/05j8LAQ.jpg" width=200>](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html)  [<img target="_blank" src="https://imgur.com/7YYfAkg.jpg" width=200>](https://console.cloud.google.com/)        
+ [<img target="_blank" src="https://imgur.com/i0q2j1W.jpg" width=200>](https://biosppy.readthedocs.io/en/stable/biosppy.signals.html)  [<img target="_blank" src="https://imgur.com/EiX2o88.jpg" width=200>](https://scikit-learn.org/stable/)  
 
 
 
